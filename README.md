@@ -1,7 +1,10 @@
 # Cloning Of Kissflow.com
 
-Kissflow.com is a Digital Workspace
-Kissflow is simple for business users to create powerful apps, processes, or case boards that are natively integrated and flexible.
+
+Kissflow is a cloud-based forms automation solution offered by OrangeScape Technologies that automate business processes and tracks performance.
+
+
+Pages : Login | Sign Up | Home Page | Features | Customer Stories | Pricing | Checkout | Confirm.
 
 
 ## Tech Stack
