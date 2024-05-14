@@ -19,4 +19,4 @@ Pages : Login | Sign Up | Home Page | Features | Customer Stories | Pricing | Ch
 
 
 ## License
-This project is licensed under the Kissflow.com Cloned by me.
+This project is licensed under the kissflow.com Cloned by me.
